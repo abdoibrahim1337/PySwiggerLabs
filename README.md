@@ -8,7 +8,6 @@ This repository contains automated Python scripts to solve various labs from the
 - [Labs and Solutions](#labs-and-solutions)
   - [Blind SQL Injection with Conditional Responses](#blind-sql-injection-with-conditional-responses)
 - [Requirements](#requirements)
-- [Usage](#usage)
 
 ## Introduction
 
